@@ -1,10 +1,13 @@
-# Bitcoin + Lightning nodes, bootstrapping, etc.
+# Bitcoin + Lightning nodes, wallets, bootstrapping, etc.
 
 @@||dnsseed.bitcoin.dashjr.org^$important
 @@||seed.bitcoinstats.com^$important
 @@||seed.bitcoin.sipa.be^$important
 @@||lightning.directory^$important
 @@||lightning.computer^$important
+@@||lightningcluster.com^$important
+@@||pool.lightning.finance^$important
+@@||terminal.lightning.today^$important
 @@||dnsseed.bluematt.me^$important
 @@||blixtwallet.com^$important
 @@||trezor.io^$important
@@ -13,6 +16,16 @@
 @@||bitcoin.jonasschnelli.ch^$important
 @@||bitnodes.io^$important
 @@||sathoarder.com^$important
+@@||getalby.com^$important
+@@||walletofsatoshi.com^$important
+@@||live.ledger.com^$important
+@@||swap.ledger.com^$important
+@@||coin.ledger.com^$important
+@@||stackwallet.com^$important
+
+# Start9
+
+@@||start9.com^$important
 
 # Block explorers and other misc Bitcoin data
 
@@ -20,10 +33,13 @@
 @@||blockstream.info^$important
 @@||blockchain.info^$important
 @@||coingecko.com^$important
+@@||explorers.api.live.ledger.com^$important
 
 # Nostr relays/clients/other important Nostr stuff
 
 @@||damus.io^$important
+@@||iris.to^$important
+@@||nostrnests.com^$important
 @@||bitcoiner.social^$important
 @@||snort.social^$important
 @@||primal.net^$important
@@ -55,6 +71,7 @@
 
 @@||nostr.build^$important
 @@||void.cat^$important
+@@||cdn.zebedee.io^$important
 @@||nostrupload.com^$important
 @@||zap.stream^$important
 
@@ -71,6 +88,11 @@
 @@||hyperdht.org^$important
 @@||keybaseapi.com^$important
 @@||keybase.io^$important
+@@||getsession.org^$important
+
+# Misc Bitcoiner apps
+
+@@||theorangepillapp.com^$important
 
 # GrapheneOS
 # https://grapheneos.org/articles/grapheneos-servers
@@ -90,3 +112,12 @@
 @@||vanadium.app^$important
 @@||grapheneos.social^$important
 @@||attestation.app^$important
+
+# Obtainium and misc Android
+
+@@||api.github.com^$important
+@@||objects.githubusercontent.com^$important
+@@||exodus-privacy.eu.org^$important
+@@||newpipe.net^$important
+@@||apt.izzysoft.de^$important
+@@||f-droid.org^$important
