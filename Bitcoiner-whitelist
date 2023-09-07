@@ -22,9 +22,7 @@
 @@||swap.ledger.com^$important
 @@||coin.ledger.com^$important
 @@||stackwallet.com^$important
-
-# Start9
-
+@@||mutinywallet.com^$important
 @@||start9.com^$important
 
 # Block explorers and other misc Bitcoin data
@@ -54,11 +52,23 @@
 @@||relay.current.fyi^$important
 @@||offchain.pub^$important
 @@||relay.2nodez.com^$important
+@@||relay.orangepill.dev^$important
+@@||relay.nostr.bg^$important
 @@||plebstr.com^$important
 @@||nostrplebs.com^$important
 @@||nostr.oxtr.dev^$important
 @@||nostr21.com^$important
+@@||no.str.cr^$important
+@@||relay-verified.deschooling.us^$important
+@@||nostrgraph.net^$important
+@@||nostr-relay.app^$important
+@@||nos.lol^
+@@||free.nostr.lc^$important
+@@||nostr.sidnlabs.nl^$important
+@@||nostr.sethforprivacy.com^$important
+@@||nostr-pub.wellorder.net^$important
 @@||nostr.shroomslab.net^$important
+@@||nostr.blockpower.capital^$important
 @@||nostr.bitcoinplebs.de^$important
 @@||nostr.fmt.wiz.biz^$important
 @@||nostr.lu.ke^$important
