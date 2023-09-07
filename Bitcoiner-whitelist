@@ -1,0 +1,92 @@
+# Bitcoin + Lightning nodes, bootstrapping, etc.
+
+@@||dnsseed.bitcoin.dashjr.org^$important
+@@||seed.bitcoinstats.com^$important
+@@||seed.bitcoin.sipa.be^$important
+@@||lightning.directory^$important
+@@||lightning.computer^$important
+@@||dnsseed.bluematt.me^$important
+@@||blixtwallet.com^$important
+@@||trezor.io^$important
+@@||zeusln.app^$important
+@@||lnolymp.us^$important
+@@||bitcoin.jonasschnelli.ch^$important
+@@||bitnodes.io^$important
+@@||sathoarder.com^$important
+
+# Block explorers and other misc Bitcoin data
+
+@@||mempool.space^$important
+@@||blockstream.info^$important
+@@||blockchain.info^$important
+@@||coingecko.com^$important
+
+# Nostr relays/clients/other important Nostr stuff
+
+@@||damus.io^$important
+@@||bitcoiner.social^$important
+@@||snort.social^$important
+@@||primal.net^$important
+@@||relayable.org^$important
+@@||relay.f7z.io^$important
+@@||blastr.f7z.xyz^$important
+@@||nostr.wine^$important
+@@||amethyst.social^$important
+@@||nostr.band^$important
+@@||nostr.mom^$important
+@@||nostr.kollider.xyz^$important
+@@||relay.current.fyi^$important
+@@||offchain.pub^$important
+@@||relay.2nodez.com^$important
+@@||plebstr.com^$important
+@@||nostrplebs.com^$important
+@@||nostr.oxtr.dev^$important
+@@||nostr21.com^$important
+@@||nostr.shroomslab.net^$important
+@@||nostr.bitcoinplebs.de^$important
+@@||nostr.fmt.wiz.biz^$important
+@@||nostr.lu.ke^$important
+@@||nostr.nodeofsven.com^$important
+@@||nostr.btcmp.com^$important
+@@||nostr.cheeserobot.org^$important
+@@||nostr.gleeze.com^$important
+
+# Nostr media storage/streaming
+
+@@||nostr.build^$important
+@@||void.cat^$important
+@@||nostrupload.com^$important
+@@||zap.stream^$important
+
+# Encrypted comms (SimpleX, Proton, etc...)
+
+@@||simplex.im^$important
+@@||simplex.chat^$important
+@@||protonmail.ch^$important
+@@||protonmail.com^$important
+@@||proton.me^$important
+@@||skiff.com^$important
+@@||bitwarden.com^$important
+@@||ivpn.net^$important
+@@||hyperdht.org^$important
+@@||keybaseapi.com^$important
+@@||keybase.io^$important
+
+# GrapheneOS
+# https://grapheneos.org/articles/grapheneos-servers
+# Only the top level domain for each is necessary thx to the magic of regex :)
+
+@@||grapheneos.org^$important
+@@||grapheneos.network^$important
+@@||grapheneos.online^$important
+@@||grapheneos.ca^$important
+@@||grapheneos.com^$important
+@@||grapheneos.dev^$important
+@@||grapheneos.info^$important
+@@||grapheneos.net^$important
+@@||grapheneos.ovh^$important
+@@||grapheneos.page^$important
+@@||seamlessupdate.app^$important
+@@||vanadium.app^$important
+@@||grapheneos.social^$important
+@@||attestation.app^$important
