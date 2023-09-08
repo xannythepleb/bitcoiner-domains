@@ -31,10 +31,10 @@
 @@||mempool.space^$important
 @@||blockstream.info^$important
 @@||blockchain.info^$important
-@@||coingecko.com^$important
+@@||api.coingecko.com^$important
 @@||explorers.api.live.ledger.com^$important
 
-# Nostr relays/clients/other important Nostr stuff
+# Nostr relays/clients/NIP-05/other important Nostr stuff
 
 @@||damus.io^$important
 @@||iris.to^$important
@@ -42,13 +42,26 @@
 @@||bitcoiner.social^$important
 @@||snort.social^$important
 @@||primal.net^$important
+@@||nostrcheck.me^$important
+@@||nip05.social^$important
+@@||agorasocial.app^$important
+@@||nostribe.com^$important
 @@||relayable.org^$important
+@@||nostr.land^$important
+@@||satellite.earth^$important
+@@||nostrfiles.dev^$important
+@@||nostrimg.com^$important
+@@||nostrpix.com^$important
 @@||relay.f7z.io^$important
 @@||blastr.f7z.xyz^$important
 @@||nostr.wine^$important
 @@||amethyst.social^$important
+@@||zapddit.com^$important
+@@||nostrom.at^$important
+@@||nostr.ch^$important
 @@||nostr.band^$important
 @@||nostr.mom^$important
+@@||nostr.fractalized.ovh^$important
 @@||nostr.kollider.xyz^$important
 @@||relay.current.fyi^$important
 @@||offchain.pub^$important
@@ -57,6 +70,8 @@
 @@||relay.nostr.bg^$important
 @@||plebstr.com^$important
 @@||nostrplebs.com^$important
+@@||highlighter.com^$important
+@@||habla.news^$important
 @@||nostr.oxtr.dev^$important
 @@||nostr21.com^$important
 @@||no.str.cr^$important
@@ -76,6 +91,7 @@
 @@||nostr.nodeofsven.com^$important
 @@||nostr.btcmp.com^$important
 @@||nostr.cheeserobot.org^$important
+@@||nostr.cruncher.com^$important
 @@||nostr.gleeze.com^$important
 
 # Nostr media storage/streaming
@@ -85,6 +101,9 @@
 @@||cdn.zebedee.io^$important
 @@||nostrupload.com^$important
 @@||zap.stream^$important
+@@||cdn.midjourney.com^$important
+@@||transfer.sh^$important
+@@||cdn.satellite.earth^$important
 
 # Encrypted comms (SimpleX, Proton, etc...)
 
@@ -96,11 +115,14 @@
 @@||skiff.com^$important
 @@||bitwarden.com^$important
 @@||ivpn.net^$important
+@@||mullvad.net^$important
 @@||hyperdht.org^$important
 @@||keybaseapi.com^$important
 @@||keybase.io^$important
 @@||getsession.org^$important
 @@||signal.org^$important
+@@||nextcloud.com^$important
+@@||onionshare.org^$important
 
 # Misc Bitcoiner apps
 
@@ -130,8 +152,12 @@
 # Obtainium and misc Android
 
 @@||api.github.com^$important
+@@||gitlab.com^$important
 @@||objects.githubusercontent.com^$important
 @@||exodus-privacy.eu.org^$important
 @@||newpipe.net^$important
 @@||apt.izzysoft.de^$important
+@@||android.izzysoft.de^$important
 @@||f-droid.org^$important
+@@||accrescent.app^$important
+@@||guardianproject.info^$important
