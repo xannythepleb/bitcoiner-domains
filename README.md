@@ -16,3 +16,9 @@ Hence, this repo was born.
 Simply add the following URL to your allow list:
 
 `https://raw.githubusercontent.com/xannythepleb/bitcoiner-domains/main/Bitcoiner-whitelist`
+
+Want the Monero version too?
+
+`https://raw.githubusercontent.com/xannythepleb/bitcoiner-domains/main/XMR-whitelst`
+
+(Yes I spelt "whitelist" wrong.)
