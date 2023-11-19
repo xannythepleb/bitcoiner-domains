@@ -1,0 +1,18 @@
+# Monero whitelist
+
+# Nodes
+
+@@||node.supportxmr.com^$important
+@@||opennode.xmr-tw.org^$important
+@@||xmr-node.cakewallet.com^$important
+@@||node.sethforprivacy.com^$important
+@@||nodes.hashvault.pro^$important
+@@||node.moneroworld.com^$important
+@@||node.c3pool.com^$important
+@@||node.community.rino.io^$important
+
+# Explorers
+
+@@||moneroexplorer.org^$important
+@@||exploremonero.com^$important
+@@||xmrscan.org^$important
