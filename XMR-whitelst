@@ -19,6 +19,9 @@
 @@||node.monerod.org^$important
 @@||xmr1.rs.me^$important
 @@||moneronode.org^$important
+@@||xmr.monopolymoney.eu^$important
+@@||thexmrnode.hopto.org^$important
+@@||xmr.skynetcloud.site^$important
 
 # Explorers
 
@@ -31,7 +34,8 @@
 @@||getmonero.org^$important # official one
 @@||monero.com^$important
 @@||mymonero.com^$important
-@@||monerujo.io^$important
+@@||monerujo.io^$important # XMR on Android only
+@@||stackwallet.com^$important # XMR + BTC
 
 # Msc
 
