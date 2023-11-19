@@ -3,6 +3,10 @@ Regex domain lists for the Pi Hole, AdGuard Home, and anything else accepting re
 
 Will be expanded over time, hopefully to also include a blocklist for scams targeting Bitcoiners too.
 
+# Have you made a blocklist?
+
+Yes! [Check out this repo.](https://github.com/xannythepleb/adguard-home-adblock)
+
 # Why?
 
 Many common blocklists for Pi Hole, AdGuard Home, and other DNS based blocking systems, especially (but not only) the large ones targeting malware, often broadly block all nodes, wallets, mining pools, and so on, regardless of legitimacy, out of an abundance of caution in an attempt to prevent cryptojacking. While this is a real threat, blocking legitimate sites such as Bitcoin wallets does not protect anyone - it is at best security theatre, at worst actively pushing people away from legitimate sources and onto shady ones.
